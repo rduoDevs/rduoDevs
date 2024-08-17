@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**rduoDevs/rduoDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div id="header" align="center">
+    <img src="https://clipart-library.com/8300/1931/learn-coding-clipart-sm.png">
+    <div id="buttons">
+      <a href="https://www.linkedin.com/in/ryanduongct/"/><img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="mailto:rduong314@gmail.com"><img alt="My Email" src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail"/></a>
+    </div>
+  </div>
 
-Here are some ideas to get you started:
+# 👋 Hello! I'm Ryan Duong.
+I'm currently a student at Brown University studying Applied Mathematics & Computer Science. This profile is home to many of my personal coding projects, both past & present! When I'm not developing anything, I love to play soccer & basketball with friends, wind down with some Netflix shows or Spotify, and get some good exercise in. I'm also pretty fond of making paper airplanes (darts, specifically). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Currently:** Working on a portfolio website.
+- 🎥 **TV & Movies:** Just finished Season 2 of **House of the Dragon.**
+- 🎮 **Games:** Looking for my game-related projects? Find it <a href="https://github.com/LugicalDev"> here!</a>
