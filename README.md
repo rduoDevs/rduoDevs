@@ -11,5 +11,6 @@
 I'm currently a student at Brown University studying Applied Mathematics & Computer Science. This profile is home to many of my personal coding projects, both past & present! When I'm not developing anything, I love to play soccer & basketball with friends, wind down with some Netflix shows or Spotify, and get some good exercise in. I'm also pretty fond of making paper airplanes (darts, specifically). 
 
 - 🛠️ **Currently:** Working on a portfolio website.
-- 🎥 **TV & Movies:** Just finished Season 2 of **House of the Dragon.**
+- 📜 **Recent News:** I've finished my 1st semester @ Brown, & am looking for internships! Feel free to reach out via LinkedIn!
+- 🎥 **TV & Movies:** Just finished Part 2 of **Cobra Kai.**
 - 🎮 **Games:** Looking for my game-related projects? Find it <a href="https://github.com/LugicalDev"> here!</a>
