@@ -10,7 +10,7 @@
 # 👋 Hello! I'm Ryan Duong.
 I'm currently a student at Brown University studying Applied Mathematics & Computer Science. This profile is home to many of my personal coding projects, both past & present! When I'm not developing anything, I love to play soccer & basketball with friends, wind down with some Netflix shows or Spotify, and get some good exercise in. I'm also pretty fond of making paper airplanes (darts, specifically). 
 
-- 🛠️ **Currently:** Working on a portfolio website.
-- 📜 **Recent News:** I've finished my 1st semester @ Brown, & am looking for internships! Feel free to reach out via LinkedIn!
-- 🎥 **TV & Movies:** Just finished Part 2 of **Cobra Kai.**
+- 🛠️ **Currently:** Returning to my indie game-dev projects.
+- 📜 **Recent News:** I've started my 2nd semester! Feel free to reach out via LinkedIn!
+- 🎥 **TV & Movies:** Waiting for Part 3 of **Cobra Kai.**
 - 🎮 **Games:** Looking for my game-related projects? Find it <a href="https://github.com/LugicalDev"> here!</a>
