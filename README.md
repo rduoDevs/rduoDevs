@@ -11,6 +11,6 @@
 I'm currently a student at Brown University studying Applied Mathematics & Computer Science. This profile is home to many of my personal coding projects, both past & present! When I'm not developing anything, I love to play soccer & basketball with friends, wind down with some Netflix shows or Spotify, and get some good exercise in. I'm also pretty fond of making paper airplanes (darts, specifically). 
 
 - 🛠️ **Currently:** Returning to my indie game-dev projects.
-- 📜 **Recent News:** I've just about wrapped up my 2nd semester!
+- 📜 **Recent News:** I will be interning at *HyAxiom* this summer as a Software Engineer Intern!
 - 🎥 **TV & Movies:** Hoping to eventually catch up on *Survivor.*
 - 🎮 **Games:** Looking for my game-related projects? Find it <a href="https://github.com/LugicalDev"> here!</a>
