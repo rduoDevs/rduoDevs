@@ -13,6 +13,6 @@ I'm currently a student at Brown University studying Applied Mathematics & Compu
 You can learn more about me & my work through my personal website @ **ryduong.com**
 
 - 🛠️ **Currently:** Returning to my indie game-dev projects.
-- 📜 **Recent News:** I will be interning at *HyAxiom* this summer as a Software Engineer Intern!
+- 📜 **Recent News:** I just finished my Software Engineering internship at *HyAxiom*! Looking for new ventures!
 - 🎥 **TV & Movies:** Hoping to eventually catch up on *Survivor.*
 - 🎮 **Games:** Looking for my game-related projects? Find it <a href="https://github.com/LugicalDev"> here!</a>
