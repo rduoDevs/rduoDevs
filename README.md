@@ -8,11 +8,10 @@
   </div>
 
 # 👋 Hello! I'm Ryan Duong.
-I'm currently a student at Brown University studying Applied Mathematics & Computer Science. This profile is home to many of my personal coding projects, both past & present! When I'm not developing anything, I love to play soccer & basketball with friends, wind down with some Netflix shows or Spotify, and get some good exercise in. I'm also pretty fond of making paper airplanes (darts, specifically). 
+I'm currently a student at Brown University studying Applied Mathematics & Computer Science. When I'm not developing anything, I love to play soccer & basketball with friends, wind down with some Netflix shows or Spotify, and get some good exercise in. I'm also pretty fond of making paper airplanes (darts, specifically). 
 
-You can learn more about me & my work through my personal website @ **ryduong.com**
+You can learn more about me & my work through my personal website @ [**ryduong.com**](https://ryduong.com)
 
 - 🛠️ **Currently:** Returning to my indie game-dev projects.
-- 📜 **Recent News:** I just finished my Software Engineering internship at *HyAxiom*! Looking for new ventures!
-- 🎥 **TV & Movies:** Hoping to eventually catch up on *Survivor.*
-- 🎮 **Games:** Looking for my game-related projects? Find it <a href="https://github.com/LugicalDev"> here!</a>
+- 📜 **Recent News:** Just finished my 3rd semester! Looking for Summer 2026 opportunities.
+- 🎵 **Spotify Wrapped #1:** "Who Laughs Last" (Lord Huron ft. Kristen Stewart)
