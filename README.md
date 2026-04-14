@@ -13,5 +13,5 @@ I'm currently a student at Brown University studying Applied Mathematics & Compu
 You can learn more about me & my work through my personal website @ [**ryduong.com**](https://ryduong.com)
 
 - 🛠️ **Currently:** Returning to my indie game-dev projects.
-- 📜 **Recent News:** Just finished my 3rd semester! Looking for Summer 2026 opportunities.
+- 📜 **Recent News:** I'll be joining Roblox this summer as a Software Engineering intern. Hyped!
 - 🎵 **Spotify Wrapped #1:** "Who Laughs Last" (Lord Huron ft. Kristen Stewart)
