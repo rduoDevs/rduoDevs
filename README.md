@@ -8,5 +8,5 @@
   </div>
 
 # 👋 Hi. It's me.
-CS + Applied Math @ Brown / Hobbyist Game Developer & Graphics Programmer
-Learn more about me here @ [**ryduong.com**](https://ryduong.com)
+CS + Applied Math @ Brown / Hobbyist Game Developer & Graphics Programmer  
+Learn more about me here: [**ryduong.com**](https://ryduong.com)
