@@ -7,11 +7,6 @@
     </div>
   </div>
 
-# 👋 Hello! I'm Ryan Duong.
-I'm currently a student at Brown University studying Applied Mathematics & Computer Science. When I'm not developing anything, I love to play soccer & basketball with friends, wind down with some Netflix shows or Spotify, and get some good exercise in. I'm also pretty fond of making paper airplanes (darts, specifically). 
-
-You can learn more about me & my work through my personal website @ [**ryduong.com**](https://ryduong.com)
-
-- 🛠️ **Currently:** Returning to my indie game-dev projects.
-- 📜 **Recent News:** I'll be joining Roblox this summer as a Software Engineering intern. Hyped!
-- 🎵 **Spotify Wrapped #1:** "Who Laughs Last" (Lord Huron ft. Kristen Stewart)
+# 👋 Hi. It's me.
+CS + Applied Math @ Brown / Hobbyist Game Developer & Graphics Programmer
+Learn more about me here @ [**ryduong.com**](https://ryduong.com)
